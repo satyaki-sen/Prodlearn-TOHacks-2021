@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/competeFragment"
+        android:title="Compete"
+        android:icon="@drawable/ic_compete"/>
+
+    <item
+        android:id="@+id/soloFragment"
+        android:title="Solo"
+        android:icon="@drawable/ic_solo"/>
+
+    <item
+        android:id="@+id/title"
+        android:title="Add Friends"
+        android:icon="@drawable/ic_friend"/>
+
+</menu>

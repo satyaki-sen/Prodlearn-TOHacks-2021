@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945450836286",
+    "project_id": "prodlearn-44dc8",
+    "storage_bucket": "prodlearn-44dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945450836286:android:2731428c96b9aa86e88c6f",
+        "android_client_info": {
+          "package_name": "com.satyaki.courierdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945450836286-gampil6b68cidb5dovsgsn83ahb7be2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvqrXlumWIgn9DuIVjM0D_9za3_fns3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945450836286-gampil6b68cidb5dovsgsn83ahb7be2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
